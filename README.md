@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver Emanuel Nagy</h1>
 <h3 align="center">A passionate, young developer from Hungary</h3>
+<br />
+<br />
 
 - 🔭 I’m currently working on [CRWN Clothing eCommerce site based on ZTM's course](https://github.com/oliwerbig/crwn-clothing)
 
