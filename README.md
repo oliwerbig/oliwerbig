@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliwerbig" alt="oliwerbig" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/olwerbig" target="blank"><img src="https://img.shields.io/twitter/follow/olwerbig?logo=twitter&style=for-the-badge" alt="olwerbig" /></a> </p>
+<p align="left"> <a href="https://twitter.com/oliwerbig" target="blank"><img src="https://img.shields.io/twitter/follow/oliwerbig?logo=twitter&style=for-the-badge" alt="oliwerbig" /></a> </p>
 
 - 🔭 I’m currently working on [CRWN Clothing eCommerce site based on ZTM's course](https://github.com/oliwerbig/crwn-clothing)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/olwerbig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="olwerbig" height="30" width="40" /></a>
+<a href="https://twitter.com/oliwerbig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="oliwerbig" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nagyoliveremanuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nagyoliveremanuel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10026002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10026002" height="30" width="40" /></a>
 <a href="https://fb.com/oliver.emanuel.nagy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="oliver.emanuel.nagy" height="30" width="40" /></a>
